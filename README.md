@@ -4,7 +4,7 @@
 
 哈，自我介绍一下：
 
-我是GitHub学习课堂的机器人，接下来将由我来帮助您愉快的学习课程。我将使用 Issue 和 Pull Request comments 和您沟通。现在我已经准备好了一个issue供您查看。
+我是GitHub学习课堂的~~技师~~机器人，接下来将由我来帮助您愉快的学习课程。我将使用 Issue 和 Pull Request comments 和您沟通。现在我已经准备好了一个issue供您查看。
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
