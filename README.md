@@ -1,6 +1,5 @@
 # 您用于学习如何使用GitHub Pages的仓库
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
 欢迎来到快乐的学习园地。这个仓库将被用于帮助**您**完成各种操作。
 
 哈，自我介绍一下：
