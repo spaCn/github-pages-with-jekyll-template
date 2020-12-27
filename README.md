@@ -1,13 +1,14 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# 您用于学习如何使用GitHub Pages的仓库
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+欢迎来到快乐的学习园地。这个仓库将被用于帮助**您**完成各种操作。
 
-Oh! I haven't introduced myself...
+哈，自我介绍一下：
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+我是GitHub学习课堂的机器人，接下来将由我来帮助您愉快的学习课程。我将使用 Issue 和 Pull Request comments 和您沟通。现在我已经准备好了一个issue供您查看。
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+我已经~~饥渴难耐~~**迫不及待**在Issue和您见面了，快不要停。！
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
